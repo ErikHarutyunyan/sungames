@@ -1,0 +1,36 @@
+{
+	"name": "Royal Slot",
+	"short_name": "Royal Slot",
+	"description": "Royal Slot",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/imagem_16px (1).png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/imagem_32px (1).png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/imagem_114px (1).png",
+			"sizes": "114x114",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/imagem_128px (1).png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/imagem_256px (1).png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	]
+}
